@@ -3,7 +3,6 @@
 
 using namespace std;
 
-
 void printMatrix(long **m, int lin, int col) {
     for (int i = 0; i < lin; i++) {
         cout << "|";
